@@ -11,7 +11,7 @@ public class Department {
 		this.name = name;
 	}
 
-	public String getNome() {
+	public String getName() {
 		return name;
 	}
 
